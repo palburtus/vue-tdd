@@ -1,5 +1,19 @@
 # Vue.js Test Driven Development
-TDD Using Nuxt 
+
+## Setup You Build Environment
+- Each developer should fork this project 
+- Clone the forked project
+- run ```npm install``` from the root of the cloned directory 
+
+## Next Steps
+- Get the existing unit tests to pass (Hint: start by adding data items to the ```Registration.vue``` component)
+```
+data() {
+    //Start Here
+},  
+```
+- Add an image to the form and appropriate unit tests
+- Add a dropdown menu item with some values (i.e. states / countries / etc.) and appropriate unit tests
 
 ## Build Setup
 
