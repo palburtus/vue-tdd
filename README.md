@@ -1,6 +1,6 @@
 # Vue.js Test Driven Development
 
-## Setup You Build Environment
+## Getting Started
 - Each developer should fork this project 
 - Clone the forked project
 - run ```npm install``` from the root of the cloned directory 
